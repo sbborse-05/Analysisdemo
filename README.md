@@ -1,4 +1,3 @@
-# Analysisdemo
-This is my first Git Repository
-<br>
-Author - Saurabh Borse (Student)
+# Olympic Data Analysis by using a STREAMLIT web application
+
+
